@@ -1,0 +1,6 @@
+@ScheduledEmail_HostAddress = http://localhost:5274
+
+GET {{ScheduledEmail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

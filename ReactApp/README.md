@@ -1,0 +1,1 @@
+This project is Simple React authentication project. The project uses Localstroge, Redux and Axios.
